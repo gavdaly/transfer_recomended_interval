@@ -1,0 +1,14 @@
+GEM
+  specs:
+    pg (0.18.4)
+    sequel (4.29.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pg
+  sequel
+
+BUNDLED WITH
+   1.10.6
